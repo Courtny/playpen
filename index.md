@@ -1,7 +1,7 @@
 ---
 layout: page
-title: playpen
-tagline: Easy websites with GitHub Pages
+title: playpen - the danger zone
+tagline: A simple website for playing with stuff
 description: A place for playing
 ---
 
