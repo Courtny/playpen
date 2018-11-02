@@ -10,3 +10,5 @@ website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
 [git](https://git-scm.com).
 which is great for _messing around, man._
+
+If you'd like to chat with me, reach out on [Twitter](https://twitter.com/courtnycotten)
